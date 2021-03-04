@@ -14,7 +14,7 @@ ss = random.choice(suallar)
 
 cc = input((ss["sual"]))
 
-if cc == cc["cvb"]:
+if ss == ss["cvb"]:
   print("doğru")
 
 

@@ -6,10 +6,8 @@
 import random
 
 
-
-
-suallar = {"sual":"Mən Kiməm?", "cvb":"babaş"}
-
+suallar = open("sozler.txt", "r")
+random.choice(suallar)
 
 
 a = input((suallar["sual"]))

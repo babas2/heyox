@@ -1,0 +1,2 @@
+a1 = {"sual": "Babaş Necə İnsandı?", "cvb": "mükəmməl"}
+a2 = {"sual": "Nurlan Kimdi", "cvb': "alverçi"}

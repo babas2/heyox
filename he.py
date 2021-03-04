@@ -10,12 +10,11 @@ a2 = {"sual": "Nurlan Kimdi", "cvb": "alverçi"}
 
 suallar = a1, a2
 # suallar = open("sozler.txt", "r")
-random.choice(suallar)
+ss = random.choice(suallar)
 
+cc = input((ss["sual"]))
 
-a = input((suallar["sual"]))
-
-if a == suallar["cvb"]:
+if cc == suallar["cvb"]:
   print("doğru")
 
 

@@ -14,7 +14,7 @@ ss = random.choice(suallar)
 
 cc = input((ss["sual"]))
 
-if cc == ss["cvb"]:
+if cc == ss["cvb"] or ss["cvb2"]:
   print("doğru brat")
 
 
